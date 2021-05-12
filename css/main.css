@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    height: 90%;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body{
+    font-family: 'New Tegomin', serif;
+    background-color: hsl(240, 2%, 91%);
+    margin: 0, auto;
+}
