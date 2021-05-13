@@ -1,26 +1,23 @@
 .form {
-    color: white;
-    font-family: "Lato" sans-serif;
-    color: #c5c8c8e5;
+    color: crimson;
     border: 5px solid #aaaaaa;
-    background-color: rgba(0, 0, 0, 0.75);
+    background-image: url("../images/tlo.png");
+    background-size: cover;
     border-radius: 15px;
     text-align: center;
-    margin: 0, auto;
     display: block;
     max-width: 390px;
 }
 
 .form__value{
-    color: crimson;
     border: 1px solid black;
     padding: 30px;
-    margin-left: 10px;
+    margin: -4px;
     border-width: 1px;
     width: 102px;
 }
 .form__fieldset{
-    border: 1px solid crimson;
+    border: none;
 }
 .form__legend{
     background-color: teal;
