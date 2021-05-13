@@ -1,7 +1,6 @@
 # Currency calculator
 ## DEMO
-https://eugen-save.github.io/currency-converter/
-
+https://matys15.github.io/kantor/
 ## Used technologies
 - ES6+ features
 - BEM
